@@ -1,0 +1,12 @@
+---
+antora:
+  name: modules
+  dir: www
+  modules:
+    - name: "01-ghost-file"
+      label: "Ghost File"
+      solveButton: true
+
+tabs:
+  - name: ">_ terminal"
+    url: /wetty

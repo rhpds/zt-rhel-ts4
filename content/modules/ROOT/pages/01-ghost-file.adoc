@@ -1,0 +1,7 @@
+[[full-filesystem-1]]
+== Full Filesystem
+
+*Scott*: "`I don’t know why you insist on running these servers with no
+GUI… Whatever, I’m going to go get a coffee.`"
+
+Free up some disk space before the database gets corrputed!
